@@ -1,2 +1,4 @@
-# randomforest_creditcard_fraud
-Kaggle credit card fraud with randowm forest
+# Credit card fraud detection with random forest
+
+See Jupyter notebook for details.
+
